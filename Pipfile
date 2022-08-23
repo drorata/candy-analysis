@@ -8,6 +8,7 @@ ipykernel = "*"
 pandas = "==1.4.2"
 plotly = "==5.10.0"
 nbformat = "==5.3.0"
+statsmodels = "==0.13.2"
 
 [dev-packages]
 
